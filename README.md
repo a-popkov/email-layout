@@ -26,13 +26,12 @@ font-weight: 500; background-color: #323136;">Справочники</h2>
 
 <h2 style="margin-bottom: 10px; border-left: 10px solid orange;
 border-radius: 5px; padding-left: 15px; font-family: Helvetica, Roboto,'Hiragino Kaku Gothic Pro', sans-serif;
-font-weight: 500; background-color: #323136;">Практики
-</h2>
+font-weight: 500; background-color: #323136;">Практики</h2>
 
 ★
 **Марк Робинс** | [Изучать](https://www.goodemailcode.com/)
 
-> Марк входит в консорцеум EMC. Ведет блог и делится опытом.
+> Марк входит в рабочую группу Email Markup Consortium (EMC). Ведет блог и делится опытом.
 
 <br>
 
@@ -121,8 +120,7 @@ font-weight: 500; background-color: #323136;">Фреймворк</h2>
 
 <h2 style="margin-bottom: 10px; border-left: 10px solid green;
 border-radius: 5px; padding-left: 15px; font-family: Helvetica, Roboto,'Hiragino Kaku Gothic Pro', sans-serif;
-font-weight: 500; background-color: #323136;">Автоматизация
-</h2>
+font-weight: 500; background-color: #323136;">Автоматизация</h2>
 
 ★
 **Parcel** | [Обзор](https://parcel.io/)
@@ -145,8 +143,7 @@ font-weight: 500; background-color: #323136;">Автоматизация
 
 <h2 style="margin-bottom: 10px; border-left: 10px solid orange;
 border-radius: 5px; padding-left: 15px; font-family: Helvetica, Roboto,'Hiragino Kaku Gothic Pro', sans-serif;
-font-weight: 500; background-color: #323136;">Тестирование
-</h2>
+font-weight: 500; background-color: #323136;">Тестирование</h2>
 
 **Litmus Putsmail** | [тестить](https://putsmail.com/)
 
@@ -162,8 +159,7 @@ font-weight: 500; background-color: #323136;">Тестирование
 
 <h2 style="margin-bottom: 10px; border-left: 10px solid green;
 border-radius: 5px; padding-left: 15px; font-family: Helvetica, Roboto,'Hiragino Kaku Gothic Pro', sans-serif;
-font-weight: 500; background-color: #323136;">В тему
-</h2>
+font-weight: 500; background-color: #323136;">В тему</h2>
 
 ★
 **Email Resources** | [актуальные](https://emailresourc.es/#)
